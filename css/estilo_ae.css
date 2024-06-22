@@ -100,3 +100,12 @@ mbody{
 	padding: 100px 0px;
 }
 
+.galeria{
+	columns: 3 320px;
+	column-gap: 2em;
+}
+
+.galeria img{
+	max-width: 100%;
+	margin-bottom: 2em;
+}
