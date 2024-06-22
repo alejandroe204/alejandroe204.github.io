@@ -1,0 +1,101 @@
+body{
+	background-color: #0D0D0D;
+}
+
+.hero h1{
+	font-family: "Lexend Mega", sans-serif;
+	font-weight: 400;
+	font-size: 120px;
+	letter-spacing: -23px;
+	line-height: 0.8;
+}
+
+.hero p{
+	font-family: "Lexend", sans-serif;
+	font-weight: 200;
+	font-size: 50px;
+	padding-left: 10px;
+	line-height: 0.3;
+}
+
+.hero span{
+	font-family: "My Soul", cursive;
+  	font-weight: 400;
+	font-size: 150px;
+	letter-spacing: 5px;
+}
+
+#menu{
+	margin-top: 10px;
+	border-radius: 100px;
+	background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+	border: 1px solid rgba(255, 255, 255, 0.18);
+	box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+	padding: 2px 30px 4px 30px;
+	background-blend-mode:color-dodge;
+	position: absolute;
+	text-align: center;
+}
+
+.menu a{
+	font-family: "Hanken Grotesk", sans-serif;
+	font-weight: 600;
+}
+
+.hero{
+    background-image: url("../img/1.jpg");
+	background-size: cover;
+	color: #FFFFFF;
+	padding: 200px;
+}
+
+.trabajos{
+	margin-top: 45px;
+}
+
+.trabajos h1{
+	font-family: "Hanken Grotesk", sans-serif;
+	font-weight: 600;
+	color: #FFFFFF;
+}
+
+.trabajos p{
+	font-family: "Lexend", sans-serif;
+	font-weight: 200;
+	color: #FFFFFF;
+}
+
+.trabajos h2{
+	font-family: "Lexend", sans-serif;
+	font-weight: 200;
+	font-size: 100px;
+	color: #FFFFFF;
+}
+
+.piedepagina{
+	color: #FFFFFF;
+	background-color: #000000;
+	padding: 60px;
+}
+
+#iconos_social i{
+    padding-left: 20px;
+	color:#0031FF;
+}
+
+#iconos_social i:hover{
+	color: #FFFFFF;
+}
+
+.trabajo_{
+	padding-top: 35px;
+}
+
+.acerca{
+	color: #FFFFFF;
+	padding: 200px 0px;
+}
+
+.galeria{
+	padding: 100px 0px;
+}
